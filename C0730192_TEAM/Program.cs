@@ -1,4 +1,13 @@
-﻿using System;
+﻿
+/*
+* CSD 3354 SECTION 3
+* ASIGNMENT ONE
+* TEAM MEMBERS : Akash rabari 
+* NAME STUDENT ID : 
+* NAME STUDENT ID :
+*/
+
+using System;
 using System.IO;
 using System.Collections.Generic;
 using System.Linq;
