@@ -2,9 +2,9 @@
 /*
 * CSD 3354 SECTION 3
 * ASIGNMENT ONE
-* TEAM MEMBERS : Akash rabari 
-* NAME STUDENT ID : 
-* NAME STUDENT ID :
+* TEAM MEMBERS : Akash Rabari  C0730192
+* NAME STUDENT ID : Nirmal Patel C0730194
+* NAME STUDENT ID : Harpreet Kaur C0726031
 */
 
 using System;
